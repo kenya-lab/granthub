@@ -1,21 +1,21 @@
 {
   "org_name": "Innervision Arts Academy",
   "project_name": "Innervision Arts Academy Summer Relaunch",
-  "one_line_summary": "A relaunching summer arts camp providing arts education and enrichment programming for youth.",
-  "mission": "REPLACE ME: 2-3 sentence mission statement for Innervision Arts Academy.",
+  "one_line_summary": "An arts education program for youth in Los Angeles, providing a summer arts camp with enrichment programming.",
+  "mission": "To provide youth with the tools to create, connect, and heal through art, wellness, and community.",
   "programs": [
     {
       "name": "Summer Arts Camp",
-      "description": "REPLACE ME: describe the camp curriculum, disciplines taught, age groups served.",
-      "population_served": "REPLACE ME: e.g. ages 6-14, low-income families, specific neighborhoods in LA",
-      "site_model": "Satellite site model, hosted with SJLI (preliminary verbal commitment); MOU conversion in progress"
+      "description": "Immersive workshops in visual arts, music production, dance, and creative entrepreneurship, led by industry professionals.",
+      "population_served": "Youth ages 12-18 from underserved Los Angeles-area communities; the 2025 camp aimed to engage 100 youth, with a focus on accessibility, diversity, and empowerment.",
+      "site_model": "Satellite site model, hosted with SJLI (Social Justice Learning Institute), 600 Centinela Blvd, Inglewood, CA. The 2025 camp ran weekly (Wednesdays, June 11-July 2) at this site. REPLACE ME: confirm current MOU status for future years."
     }
   ],
   "operations": {
     "transportation": "REPLACE ME: current plan/status",
-    "site_confirmation": "SJLI - verbal commitment, MOU pending",
+    "site_confirmation": "SJLI (Social Justice Learning Institute), 600 Centinela Blvd, Inglewood, CA - hosted the 2025 camp. REPLACE ME: confirm MOU status for future years.",
     "food_program": "USDA Summer Food Service Program under consideration",
-    "enrollment_target": "REPLACE ME: target number of campers",
+    "enrollment_target": "100 youth (2025 camp goal). REPLACE ME: confirm actual enrollment achieved and target for upcoming cycle.",
     "teacher_compensation": "REPLACE ME: staffing/pay structure",
     "parent_communication": "REPLACE ME"
   },
@@ -27,21 +27,21 @@
   },
   "impact_and_outcomes": {
     "past_years_run": "REPLACE ME: how many summers has this run before the relaunch?",
-    "past_enrollment": "REPLACE ME",
+    "past_enrollment": "REPLACE ME: confirm how many of the 100-youth 2025 target actually enrolled/attended",
     "outcomes_data": "REPLACE ME: any testimonials, retention, skill outcomes from prior years",
     "this_year_goals": "REPLACE ME"
   },
   "leadership": [
     {
-      "name": "REPLACE ME",
-      "title": "REPLACE ME",
+      "name": "Kenya Russell",
+      "title": "Founder",
       "bio": "REPLACE ME"
     }
   ],
   "location": {
-    "program_address_or_neighborhood": "REPLACE ME: needed to identify the correct LA City Council district / LA County Board of Supervisors district for discretionary funds",
-    "la_city_council_district": "REPLACE ME: e.g. CD 8",
-    "la_county_supervisorial_district": "REPLACE ME: e.g. District 2"
+    "program_address_or_neighborhood": "Inglewood, CA (2025 camp hosted at SJLI, 600 Centinela Blvd, Inglewood, CA 90302)",
+    "la_city_council_district": "REPLACE ME: note - Inglewood is its own incorporated city, not part of the City of LA, so this may not apply; confirm whether Inglewood City Council district discretionary funds are the relevant local equivalent instead.",
+    "la_county_supervisorial_district": "REPLACE ME: Inglewood is in LA County Board of Supervisors District 2 as of the current districting, but confirm before using this in an application."
   },
   "target_funders": [
     "LA County Arts Commission",
@@ -65,5 +65,10 @@
     "why_this_matters": "REPLACE ME: a strong 150-200 word answer to 'why does your organization's work matter' that can be adapted per grant.",
     "dei_statement": "REPLACE ME",
     "sustainability_plan": "REPLACE ME: how the program continues beyond this grant cycle."
-  }
+  },
+  "_sources": [
+    "https://lasentinel.net/innervision-academy-partners-with-sjli-for-summer-art-camp-in-inglewood.html",
+    "https://www.instagram.com/innervisionacademy/",
+    "https://www.zeffy.com/en-US/fundraising/empower-youth-through-creativity-support-the-2025-innervision-arts-camp (blocked from direct fetch in this environment - re-check for the fundraising goal, full program description, and any additional details not captured here)"
+  ]
 }
