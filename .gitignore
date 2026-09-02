@@ -1,0 +1,5 @@
+grant-ai/venv/
+grant-ai/.env
+grant-ai/data/*.db
+__pycache__/
+*.pyc

@@ -1,0 +1,47 @@
+{
+  "note": "These categories have no public search API (unlike grants.gov). Run the queries below inside Claude Code, which has live web search, and log each real result via search_web.add_manual_opportunity(). Re-run on a cadence (e.g. monthly) since these open/close on rolling or annual cycles.",
+
+  "categories": [
+    {
+      "category": "CDFIs (Community Development Financial Institutions)",
+      "notes": "IMPORTANT DISTINCTION: most CDFI products are LOANS or investments, not grants. Only log something here if it's a genuine grant, grant-plus-loan blend, or no-cost technical assistance program aimed at nonprofits/youth programs — not a straight loan product, since that's a different kind of decision (debt) than a grant application.",
+      "example_queries": [
+        "Los Angeles CDFI grant program nonprofit arts youth",
+        "California CDFI community development grant nonprofit 2026",
+        "CDFI Fund technical assistance grant nonprofit",
+        "[specific local CDFI name] grant program"
+      ]
+    },
+    {
+      "category": "Private and community foundations",
+      "notes": "Best covered by a paid database (Candid/Foundation Directory Online, Instrumentl) if you want comprehensiveness — those aggregate 990 filings to find foundations that have actually funded similar youth/arts orgs before. Web search is a reasonable free substitute for known/likely funders.",
+      "example_queries": [
+        "California Community Foundation grants youth arts education",
+        "Ralph M Parsons Foundation grants Los Angeles youth",
+        "Weingart Foundation grants nonprofit application",
+        "Annenberg Foundation grants Los Angeles youth arts",
+        "[foundation name] grant application deadline 2026"
+      ]
+    },
+    {
+      "category": "LA City Council district discretionary funds",
+      "notes": "Each of the 15 LA City Council districts controls its own discretionary community/arts funding, separate from citywide programs. REQUIRES knowing which council district the program operates/serves in (fill this into org_profile.json). Also check LA County Board of Supervisors district offices if the program is unincorporated-county-adjacent.",
+      "example_queries": [
+        "Los Angeles City Council District [NUMBER] discretionary grant nonprofit",
+        "Council District [NUMBER] youth arts funding application",
+        "LA County Board of Supervisors District [NUMBER] community grant arts youth",
+        "Neighborhood Council Los Angeles small grant arts education"
+      ]
+    },
+    {
+      "category": "Already-identified priority funders",
+      "notes": "From the org profile's target_funders list — check these first and on the tightest cadence.",
+      "example_queries": [
+        "LA County Arts Commission grant cycle 2026 deadline",
+        "National Endowment for the Arts grant youth arts education deadline",
+        "Adobe Foundation grant application nonprofit",
+        "Disney corporate giving grant application youth arts"
+      ]
+    }
+  ]
+}

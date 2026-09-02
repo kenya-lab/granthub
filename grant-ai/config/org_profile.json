@@ -1,0 +1,69 @@
+{
+  "org_name": "Innervision Arts Academy",
+  "project_name": "Innervision Arts Academy Summer Relaunch",
+  "one_line_summary": "A relaunching summer arts camp providing arts education and enrichment programming for youth.",
+  "mission": "REPLACE ME: 2-3 sentence mission statement for Innervision Arts Academy.",
+  "programs": [
+    {
+      "name": "Summer Arts Camp",
+      "description": "REPLACE ME: describe the camp curriculum, disciplines taught, age groups served.",
+      "population_served": "REPLACE ME: e.g. ages 6-14, low-income families, specific neighborhoods in LA",
+      "site_model": "Satellite site model, hosted with SJLI (preliminary verbal commitment); MOU conversion in progress"
+    }
+  ],
+  "operations": {
+    "transportation": "REPLACE ME: current plan/status",
+    "site_confirmation": "SJLI - verbal commitment, MOU pending",
+    "food_program": "USDA Summer Food Service Program under consideration",
+    "enrollment_target": "REPLACE ME: target number of campers",
+    "teacher_compensation": "REPLACE ME: staffing/pay structure",
+    "parent_communication": "REPLACE ME"
+  },
+  "budget": {
+    "total_budget": "REPLACE ME",
+    "funding_secured": "REPLACE ME",
+    "funding_gap": "REPLACE ME",
+    "major_line_items": []
+  },
+  "impact_and_outcomes": {
+    "past_years_run": "REPLACE ME: how many summers has this run before the relaunch?",
+    "past_enrollment": "REPLACE ME",
+    "outcomes_data": "REPLACE ME: any testimonials, retention, skill outcomes from prior years",
+    "this_year_goals": "REPLACE ME"
+  },
+  "leadership": [
+    {
+      "name": "REPLACE ME",
+      "title": "REPLACE ME",
+      "bio": "REPLACE ME"
+    }
+  ],
+  "location": {
+    "program_address_or_neighborhood": "REPLACE ME: needed to identify the correct LA City Council district / LA County Board of Supervisors district for discretionary funds",
+    "la_city_council_district": "REPLACE ME: e.g. CD 8",
+    "la_county_supervisorial_district": "REPLACE ME: e.g. District 2"
+  },
+  "target_funders": [
+    "LA County Arts Commission",
+    "National Endowment for the Arts (NEA)",
+    "Adobe",
+    "Disney"
+  ],
+  "target_funder_categories": [
+    "CDFIs (grant/TA programs only, not loan products)",
+    "Private and community foundations (e.g. California Community Foundation, Weingart, Annenberg)",
+    "LA City Council district discretionary funds",
+    "LA County Board of Supervisors district discretionary funds"
+  ],
+  "past_funders": [],
+  "org_status": {
+    "fiscal_sponsor_or_501c3": "REPLACE ME: are you a 501(c)(3), or fiscally sponsored? Most funders require this.",
+    "ein": "REPLACE ME",
+    "year_founded": "REPLACE ME"
+  },
+  "boilerplate_answers": {
+    "why_this_matters": "REPLACE ME: a strong 150-200 word answer to 'why does your organization's work matter' that can be adapted per grant.",
+    "dei_statement": "REPLACE ME",
+    "sustainability_plan": "REPLACE ME: how the program continues beyond this grant cycle."
+  }
+}
