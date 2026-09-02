@@ -43,6 +43,7 @@
     "la_city_council_district": "REPLACE ME: note - Inglewood is its own incorporated city, not part of the City of LA, so this may not apply; confirm whether Inglewood City Council district discretionary funds are the relevant local equivalent instead.",
     "la_county_supervisorial_district": "REPLACE ME: Inglewood is in LA County Board of Supervisors District 2 as of the current districting, but confirm before using this in an application."
   },
+  "funding_eligibility_note": "No 501(c)(3) or fiscal sponsor yet - filter out or deprioritize any opportunity that requires one until org_status.fiscal_sponsor_or_501c3 is updated. Favor, in the meantime: fiscal-sponsorship programs themselves, funders explicitly open to unincorporated groups/fiscally sponsored projects, and local/informal funding (crowdfunding, in-kind donations, small business or community mini-grants) that doesn't require nonprofit status.",
   "target_funders": [
     "LA County Arts Commission",
     "National Endowment for the Arts (NEA)",
@@ -57,8 +58,8 @@
   ],
   "past_funders": [],
   "org_status": {
-    "fiscal_sponsor_or_501c3": "REPLACE ME: are you a 501(c)(3), or fiscally sponsored? Most funders require this.",
-    "ein": "REPLACE ME",
+    "fiscal_sponsor_or_501c3": "Not yet incorporated as a 501(c)(3) and no fiscal sponsor in place (as of Sept 2026). This is the top-priority gap to close: most foundation and federal grants (NEA, LA County Arts Commission, Adobe, Disney included) require one or the other before they'll even accept an application. Options worth evaluating: file for 501(c)(3) directly, or apply for fiscal sponsorship through an existing nonprofit (e.g. Fractured Atlas or Fulcrum Arts both run arts-focused fiscal sponsorship programs open to individuals/projects, or ask SJLI directly whether they'd sponsor given the existing camp partnership) - verify current eligibility/fees with each before committing.",
+    "ein": "REPLACE ME (n/a until incorporated, unless operating under a fiscal sponsor's EIN)",
     "year_founded": "REPLACE ME"
   },
   "boilerplate_answers": {
